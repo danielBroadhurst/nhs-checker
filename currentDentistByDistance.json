@@ -20,26 +20,6 @@
     ]
   },
   {
-    "dentist": "Bupa Dental Care, Manchester",
-    "address": "Bupa Dental Care, 14 St Ann's Square",
-    "city": "Manchester",
-    "postCode": "M2 7HQ",
-    "phone": "0161 834 2627",
-    "lastUpdated": "2022-03-23T12:16:20Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
     "dentist": "Rossendale Dental Health Centre",
     "address": "124 Burnley Road, Rawtenstall",
     "city": "Lancs",
@@ -265,7 +245,7 @@
     "city": "Buxton",
     "postCode": "SK17 6JH",
     "phone": "01298 214601",
-    "lastUpdated": "2022-02-23T11:13:58Z",
+    "lastUpdated": "2022-04-07T12:04:12Z",
     "accepting": [
       {
         "Id": 1,
@@ -925,7 +905,7 @@
     "city": "Leeds",
     "postCode": "LS8 5DH",
     "phone": "0113 2492136",
-    "lastUpdated": "2022-01-13T13:49:31Z",
+    "lastUpdated": "2022-04-08T16:55:51.847Z",
     "accepting": [
       {
         "Id": 1,
@@ -1685,7 +1665,7 @@
     "city": "Rugeley",
     "postCode": "WS15 2DZ",
     "phone": "01889 578225",
-    "lastUpdated": "2022-01-09T23:03:54Z",
+    "lastUpdated": "2022-04-06T14:36:13.653Z",
     "accepting": [
       {
         "Id": 2,
@@ -2971,6 +2951,26 @@
     "postCode": "DY1 1QE",
     "phone": "01384 245960",
     "lastUpdated": "2022-03-27T15:50:02.117Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Aldridge Road Dental Practice ",
+    "address": "352 Dyas Road, Great Barr",
+    "city": "Birmingham",
+    "postCode": "B44 8TB",
+    "phone": "0121 325 0055",
+    "lastUpdated": "2022-03-28T16:04:53Z",
     "accepting": [
       {
         "Id": 1,

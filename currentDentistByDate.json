@@ -1,5 +1,60 @@
 [
   {
+    "dentist": "Jem Dental Care",
+    "address": "210-214 Harehills Lane, null",
+    "city": "Leeds",
+    "postCode": "LS8 5DH",
+    "phone": "0113 2492136",
+    "lastUpdated": "2022-04-08T16:55:51.847Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Broad Walk Dental Practice",
+    "address": "3 Grosvenor Mansions, Broad Walk",
+    "city": "Buxton",
+    "postCode": "SK17 6JH",
+    "phone": "01298 214601",
+    "lastUpdated": "2022-04-07T12:04:12Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Serenity Dental Care",
+    "address": "Serenity Dental Care, 39 Heron Street",
+    "city": "Rugeley",
+    "postCode": "WS15 2DZ",
+    "phone": "01889 578225",
+    "lastUpdated": "2022-04-06T14:36:13.653Z",
+    "accepting": [
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
     "dentist": "Fern Cottage Dental Practice",
     "address": "28 Hoyland Road, Hoyland",
     "city": "Barnsley",
@@ -221,6 +276,26 @@
     "postCode": "WV4 4DQ",
     "phone": "01902 338278",
     "lastUpdated": "2022-03-29T07:30:44.39Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Aldridge Road Dental Practice ",
+    "address": "352 Dyas Road, Great Barr",
+    "city": "Birmingham",
+    "postCode": "B44 8TB",
+    "phone": "0121 325 0055",
+    "lastUpdated": "2022-03-28T16:04:53Z",
     "accepting": [
       {
         "Id": 1,
@@ -641,26 +716,6 @@
     "postCode": "TF3 2JZ",
     "phone": "01952 506556",
     "lastUpdated": "2022-03-24T11:33:39Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Bupa Dental Care, Manchester",
-    "address": "Bupa Dental Care, 14 St Ann's Square",
-    "city": "Manchester",
-    "postCode": "M2 7HQ",
-    "phone": "0161 834 2627",
-    "lastUpdated": "2022-03-23T12:16:20Z",
     "accepting": [
       {
         "Id": 1,
@@ -1521,26 +1576,6 @@
     "postCode": "LS15 7PH",
     "phone": "01132648344",
     "lastUpdated": "2022-02-23T11:19:08Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Broad Walk Dental Practice",
-    "address": "3 Grosvenor Mansions, Broad Walk",
-    "city": "Buxton",
-    "postCode": "SK17 6JH",
-    "phone": "01298 214601",
-    "lastUpdated": "2022-02-23T11:13:58Z",
     "accepting": [
       {
         "Id": 1,
@@ -2942,41 +2977,6 @@
         "Name": "Adults (18 and over)",
         "AcceptingPatients": true
       },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Jem Dental Care",
-    "address": "210-214 Harehills Lane, null",
-    "city": "Leeds",
-    "postCode": "LS8 5DH",
-    "phone": "0113 2492136",
-    "lastUpdated": "2022-01-13T13:49:31Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Serenity Dental Care",
-    "address": "Serenity Dental Care, 39 Heron Street",
-    "city": "Rugeley",
-    "postCode": "WS15 2DZ",
-    "phone": "01889 578225",
-    "lastUpdated": "2022-01-09T23:03:54Z",
-    "accepting": [
       {
         "Id": 2,
         "Name": "Adults entitled to free dental care",
