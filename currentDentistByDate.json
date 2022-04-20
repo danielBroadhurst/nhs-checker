@@ -1,5 +1,445 @@
 [
   {
+    "dentist": "Yorkshire Smiles Limited",
+    "address": "Victoria House, Victoria Road",
+    "city": "Barnsley",
+    "postCode": "S70 2BB",
+    "phone": "01226 282579",
+    "lastUpdated": "2022-04-13T14:49:23Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "mydentist, Skinner Lane, Leeds",
+    "address": "Burmantofts Dental, Unit 7- 8 Skinner Lane",
+    "city": "Leeds",
+    "postCode": "LS7 1BB",
+    "phone": "0113 2449900",
+    "lastUpdated": "2022-04-13T09:18:07Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "mydentist, Doncaster Road, Rotherham ",
+    "address": "null, 4 Doncaster Road",
+    "city": "Rotherham",
+    "postCode": "S65 1DZ",
+    "phone": "01709 365174",
+    "lastUpdated": "2022-04-13T09:17:30Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "mydentist, Shalesmoor, Sheffield",
+    "address": "null, 306-310 Shalesmoor",
+    "city": "Sheffield",
+    "postCode": "S3 8UL",
+    "phone": "0114 279 5451",
+    "lastUpdated": "2022-04-12T15:55:02Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "mydentist, London Road, Sheffield ",
+    "address": "null, 240 - 242 London Road",
+    "city": "Sheffield",
+    "postCode": "S2 4LW",
+    "phone": "01142550444",
+    "lastUpdated": "2022-04-12T15:38:27Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "mydentist, Doncaster Road, Langold",
+    "address": "null, Doncaster Road",
+    "city": "Langold",
+    "postCode": "S81 9RY",
+    "phone": "01909730389",
+    "lastUpdated": "2022-04-12T15:27:56Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Churchfield Dental Centre",
+    "address": "1 Victoria Crescent West, Barnsley",
+    "city": "S Yorkshire",
+    "postCode": "S75 2AE",
+    "phone": "01226 771471",
+    "lastUpdated": "2022-04-12T15:23:33Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "mydentist, Grove Street, Retford ",
+    "address": "null, 53 Grove Street",
+    "city": "Retford",
+    "postCode": "DN22 6LA",
+    "phone": "01777701582",
+    "lastUpdated": "2022-04-12T15:19:56Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "mydentist, Shiregreen Lane, Sheffield",
+    "address": "null, 73-75 Shiregreen Lane",
+    "city": "Sheffield",
+    "postCode": "S5 6AB",
+    "phone": "01142561511",
+    "lastUpdated": "2022-04-12T12:57:11Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "mydentist, South Road, Walkley",
+    "address": "null, 263-265 South Road",
+    "city": "Sheffield",
+    "postCode": "S6 3TA",
+    "phone": "01142335332",
+    "lastUpdated": "2022-04-12T12:56:11Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Whitecross Dental Care",
+    "address": "Halton Dental Practice, 192 Selby Road",
+    "city": "Leeds",
+    "postCode": "LS15 0LF",
+    "phone": "01132600192",
+    "lastUpdated": "2022-04-12T12:39:00Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "mydentist, Aldwark, York ",
+    "address": "null, 60-62 Aldwark",
+    "city": "York",
+    "postCode": "YO1 7BU",
+    "phone": "01904629033",
+    "lastUpdated": "2022-04-12T11:41:46Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "mydentist, Gregory Boulevard, Nottingham",
+    "address": "null, 75 Gregory Boulevard",
+    "city": "Nottingham",
+    "postCode": "NG7 5JA",
+    "phone": "01159700200",
+    "lastUpdated": "2022-04-12T11:21:47Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "mydentist, King Street, Longton ",
+    "address": "St Johns Chambers, 537 King Street",
+    "city": "Stoke-on-Trent",
+    "postCode": "ST3 1HD",
+    "phone": "01782334940",
+    "lastUpdated": "2022-04-12T10:58:59Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "mydentist, Stanley Road, Liverpool",
+    "address": "null, 200 Stanley Road",
+    "city": "Bootle",
+    "postCode": "L20 3EN",
+    "phone": "01519221652",
+    "lastUpdated": "2022-04-12T10:42:50Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "mydentist, Bradford Street, Walsall",
+    "address": "null, 1-4 Arcade Balcony",
+    "city": "Walsall",
+    "postCode": "WS1 1PQ",
+    "phone": "01922 624477",
+    "lastUpdated": "2022-04-12T10:39:45Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Guilden Sutton Dental Practice",
+    "address": "null, 1 Summerfield Road",
+    "city": "Chester",
+    "postCode": "CH3 7SW",
+    "phone": "01244 301 528",
+    "lastUpdated": "2022-04-11T16:44:37Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Swinton Dental Practice",
+    "address": "61a Station Street, Swinton",
+    "city": "Mexborough",
+    "postCode": "S64 8PZ",
+    "phone": "01709 583166",
+    "lastUpdated": "2022-04-11T13:44:24.68Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Station House Dental Practice",
+    "address": "Station Road, Oakengates",
+    "city": "Shropshire",
+    "postCode": "TF2 6AG",
+    "phone": "01952 610061",
+    "lastUpdated": "2022-04-11T13:37:40Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Darton Dental Practice",
+    "address": "48 Church Street, Darton",
+    "city": "Barnsley",
+    "postCode": "S75 5HG",
+    "phone": "01226 387207",
+    "lastUpdated": "2022-04-11T10:15:17Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Church Street Dental Practice",
+    "address": "Church Street Dental Practice, 27-29 Lichfield Street",
+    "city": "Bilston",
+    "postCode": "WV14 0AQ",
+    "phone": "01902 491539",
+    "lastUpdated": "2022-04-11T09:22:47Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Fountain Dental Practice",
+    "address": "Little Fountain Street, Little Fountain Street",
+    "city": "Leeds",
+    "postCode": "LS27 9EN",
+    "phone": "0113 5328111",
+    "lastUpdated": "2022-04-11T09:11:15.5Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
     "dentist": "Jem Dental Care",
     "address": "210-214 Harehills Lane, null",
     "city": "Leeds",
@@ -1650,286 +2090,6 @@
     ]
   },
   {
-    "dentist": "mydentist, Skinner Lane, Leeds",
-    "address": "Burmantofts Dental, Unit 7- 8 Skinner Lane",
-    "city": "Leeds",
-    "postCode": "LS7 1BB",
-    "phone": "0113 2449900",
-    "lastUpdated": "2022-02-22T15:49:05Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "mydentist, Doncaster Road, Rotherham ",
-    "address": "null, 4 Doncaster Road",
-    "city": "Rotherham",
-    "postCode": "S65 1DZ",
-    "phone": "01709 365174",
-    "lastUpdated": "2022-02-22T15:48:46Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "mydentist, Shalesmoor, Sheffield",
-    "address": "null, 306-310 Shalesmoor",
-    "city": "Sheffield",
-    "postCode": "S3 8UL",
-    "phone": "0114 279 5451",
-    "lastUpdated": "2022-02-22T15:19:54Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "mydentist, London Road, Sheffield ",
-    "address": "null, 240 - 242 London Road",
-    "city": "Sheffield",
-    "postCode": "S2 4LW",
-    "phone": "01142550444",
-    "lastUpdated": "2022-02-22T14:58:13Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "mydentist, Doncaster Road, Langold",
-    "address": "null, Doncaster Road",
-    "city": "Langold",
-    "postCode": "S81 9RY",
-    "phone": "01909730389",
-    "lastUpdated": "2022-02-22T14:50:31Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "mydentist, Grove Street, Retford ",
-    "address": "null, 53 Grove Street",
-    "city": "Retford",
-    "postCode": "DN22 6LA",
-    "phone": "01777701582",
-    "lastUpdated": "2022-02-22T14:36:56Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "mydentist, Shiregreen Lane, Sheffield",
-    "address": "null, 73-75 Shiregreen Lane",
-    "city": "Sheffield",
-    "postCode": "S5 6AB",
-    "phone": "01142561511",
-    "lastUpdated": "2022-02-22T13:55:26Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "mydentist, South Road, Walkley",
-    "address": "null, 263-265 South Road",
-    "city": "Sheffield",
-    "postCode": "S6 3TA",
-    "phone": "01142335332",
-    "lastUpdated": "2022-02-22T13:54:50Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Whitecross Dental Care",
-    "address": "Halton Dental Practice, 192 Selby Road",
-    "city": "Leeds",
-    "postCode": "LS15 0LF",
-    "phone": "01132600192",
-    "lastUpdated": "2022-02-22T13:02:18Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "mydentist, Aldwark, York ",
-    "address": "null, 60-62 Aldwark",
-    "city": "York",
-    "postCode": "YO1 7BU",
-    "phone": "01904629033",
-    "lastUpdated": "2022-02-22T11:37:07Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "mydentist, Gregory Boulevard, Nottingham",
-    "address": "null, 75 Gregory Boulevard",
-    "city": "Nottingham",
-    "postCode": "NG7 5JA",
-    "phone": "01159700200",
-    "lastUpdated": "2022-02-22T11:21:52Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "mydentist, King Street, Longton ",
-    "address": "St Johns Chambers, 537 King Street",
-    "city": "Stoke-on-Trent",
-    "postCode": "ST3 1HD",
-    "phone": "01782334940",
-    "lastUpdated": "2022-02-22T10:51:10Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "mydentist, Stanley Road, Liverpool",
-    "address": "null, 200 Stanley Road",
-    "city": "Bootle",
-    "postCode": "L20 3EN",
-    "phone": "01519221652",
-    "lastUpdated": "2022-02-22T10:30:41Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "mydentist, Bradford Street, Walsall",
-    "address": "null, 1-4 Arcade Balcony",
-    "city": "Walsall",
-    "postCode": "WS1 1PQ",
-    "phone": "01922 624477",
-    "lastUpdated": "2022-02-22T10:25:24Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
     "dentist": "Milne, Spencer & Harris Dental Surgeons LLP",
     "address": "Kings Medical Centre, King Edward Street",
     "city": "Wakefield",
@@ -1970,26 +2130,6 @@
     ]
   },
   {
-    "dentist": "Darton Dental Practice",
-    "address": "48 Church Street, Darton",
-    "city": "Barnsley",
-    "postCode": "S75 5HG",
-    "phone": "01226 387207",
-    "lastUpdated": "2022-02-21T08:35:31.487Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
     "dentist": "Thurcoft Dental Practice",
     "address": "24-28 Laughton Road, Thurcroft",
     "city": "South Yorkshire",
@@ -2016,26 +2156,6 @@
     "postCode": "NG6 9JQ",
     "phone": "0115 9171444",
     "lastUpdated": "2022-02-17T15:03:11Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Cannock Dental Care",
-    "address": "null, 37 Queens Square",
-    "city": "Staffs",
-    "postCode": "WS11 1EA",
-    "phone": "01543 503344",
-    "lastUpdated": "2022-02-17T11:36:57Z",
     "accepting": [
       {
         "Id": 1,
@@ -2096,26 +2216,6 @@
     "postCode": "S70 1TS",
     "phone": "01226 207444",
     "lastUpdated": "2022-02-16T09:27:48.093Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Rossendale Dental Health Centre",
-    "address": "124 Burnley Road, Rawtenstall",
-    "city": "Lancs",
-    "postCode": "BB4 8HH",
-    "phone": "01706 836130",
-    "lastUpdated": "2022-02-15T15:42:54Z",
     "accepting": [
       {
         "Id": 1,
@@ -2370,52 +2470,12 @@
     ]
   },
   {
-    "dentist": "Lichfield Dental Care",
-    "address": "67 Shortbutts Lane, Lichfield",
-    "city": "Staffs",
-    "postCode": "WS14 9BU",
-    "phone": "01543 264557",
-    "lastUpdated": "2022-02-10T16:04:07Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
     "dentist": "Langland Dental Practice",
     "address": "Sedgley Hall Avenue, Dudley",
     "city": "",
     "postCode": "DY3 3TA",
     "phone": "01902 670080",
     "lastUpdated": "2022-02-10T13:37:04Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Yorkshire Smiles Limited",
-    "address": "Victoria House, Victoria Road",
-    "city": "Barnsley",
-    "postCode": "S70 2BB",
-    "phone": "01226 282579",
-    "lastUpdated": "2022-02-10T09:30:56Z",
     "accepting": [
       {
         "Id": 1,
@@ -2591,26 +2651,6 @@
     "postCode": "DN12 4AT",
     "phone": "01709 861702",
     "lastUpdated": "2022-02-04T06:16:14.01Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Churchfield Dental Centre",
-    "address": "1 Victoria Crescent West, Barnsley",
-    "city": "S Yorkshire",
-    "postCode": "S75 2AE",
-    "phone": "01226 771471",
-    "lastUpdated": "2022-02-03T16:04:17Z",
     "accepting": [
       {
         "Id": 1,
@@ -2891,46 +2931,6 @@
     "postCode": "WV3 8DH",
     "phone": "01902 766287",
     "lastUpdated": "2022-01-20T07:42:46Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Swinton Dental Practice",
-    "address": "61a Station Street, Swinton",
-    "city": "Mexborough",
-    "postCode": "S64 8PZ",
-    "phone": "01709 583166",
-    "lastUpdated": "2022-01-18T19:05:26Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Fountain Dental Practice",
-    "address": "Little Fountain Street, Little Fountain Street",
-    "city": "Leeds",
-    "postCode": "LS27 9EN",
-    "phone": "0113 5328111",
-    "lastUpdated": "2022-01-18T09:02:55.05Z",
     "accepting": [
       {
         "Id": 1,
