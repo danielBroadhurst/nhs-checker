@@ -1,5 +1,65 @@
 [
   {
+    "dentist": "Wright Dental Care",
+    "address": "Lyndholme, Newcastle Street",
+    "city": "Worksop",
+    "postCode": "S80 2AS",
+    "phone": "01909 532255",
+    "lastUpdated": "2022-05-07T07:16:21.7Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "PERFECT SMILE CLINIC",
+    "address": "252-254 Easterly Road, Oakwood",
+    "city": "Leeds",
+    "postCode": "LS8 3ES",
+    "phone": "0113 2486777",
+    "lastUpdated": "2022-05-06T11:58:14Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Orliaklis, V.",
+    "address": "Darnall Dental Clinic, 652-654 Staniforth Road",
+    "city": "Sheffield",
+    "postCode": "S9 4LP",
+    "phone": "0114 244 1731",
+    "lastUpdated": "2022-05-06T07:28:26.877Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
     "dentist": "The Minster Dental Centre",
     "address": "Lower Kirklington Road, ",
     "city": "Nottinghamshire",
@@ -1525,26 +1585,6 @@
     ]
   },
   {
-    "dentist": "PERFECT SMILE CLINIC",
-    "address": "252-254 Easterly Road, Oakwood",
-    "city": "Leeds",
-    "postCode": "LS8 3ES",
-    "phone": "0113 2486777",
-    "lastUpdated": "2022-04-04T16:34:19Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
     "dentist": "Cudworth Dental Surgery",
     "address": "Cudworth Dental Surgery LTD, 260 Barnsley Road",
     "city": "Barnsley",
@@ -2900,52 +2940,12 @@
     ]
   },
   {
-    "dentist": "Wright Dental Care",
-    "address": "Lyndholme, Newcastle Street",
-    "city": "Worksop",
-    "postCode": "S80 2AS",
-    "phone": "01909 532255",
-    "lastUpdated": "2022-02-14T08:32:19Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
     "dentist": "Great Wyrley Dental Practice",
     "address": "2 Southfield Way, Great Wyrley",
     "city": "Walsall",
     "postCode": "WS6 6JZ",
     "phone": "01922 413703",
     "lastUpdated": "2022-02-13T20:13:08.42Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Orliaklis, V.",
-    "address": "Darnall Dental Clinic, 652-654 Staniforth Road",
-    "city": "Sheffield",
-    "postCode": "S9 4LP",
-    "phone": "0114 244 1731",
-    "lastUpdated": "2022-02-13T19:19:01.847Z",
     "accepting": [
       {
         "Id": 1,
