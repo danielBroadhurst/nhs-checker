@@ -385,7 +385,7 @@
     "city": "S Yorkshire",
     "postCode": "S75 2AE",
     "phone": "01226 771471",
-    "lastUpdated": "2022-04-27T17:24:07Z",
+    "lastUpdated": "2022-05-12T15:01:15Z",
     "accepting": [
       {
         "Id": 1,
@@ -505,7 +505,7 @@
     "city": "S Yorkshire",
     "postCode": "S71 1AN",
     "phone": "01226 282723",
-    "lastUpdated": "2022-02-14T10:02:20Z",
+    "lastUpdated": "2022-05-12T15:48:59Z",
     "accepting": [
       {
         "Id": 1,
@@ -545,7 +545,7 @@
     "city": "S Yorkshire",
     "postCode": "S70 1TS",
     "phone": "01226 207444",
-    "lastUpdated": "2022-02-16T09:27:48.093Z",
+    "lastUpdated": "2022-05-09T09:18:05.543Z",
     "accepting": [
       {
         "Id": 1,
@@ -865,7 +865,7 @@
     "city": "W Yorkshire",
     "postCode": "LS9 9ED",
     "phone": "0113 2495607",
-    "lastUpdated": "2022-04-04T10:00:21Z",
+    "lastUpdated": "2022-05-12T10:00:04Z",
     "accepting": [
       {
         "Id": 1,
@@ -1040,26 +1040,6 @@
     ]
   },
   {
-    "dentist": "Ridgeway Dental Practice",
-    "address": "null, 80 Ridgeway Road",
-    "city": "SHEFFIELD",
-    "postCode": "S12 2SX",
-    "phone": "0114 265 1581",
-    "lastUpdated": "2022-02-11T16:34:10Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
     "dentist": "Manor Park Family Dental Centre",
     "address": "Manor Park Family Dental Centre, 1a Motehall Road",
     "city": "Sheffield",
@@ -1205,7 +1185,7 @@
     "city": "Sheffield",
     "postCode": "S13 7JL",
     "phone": "0114 2692039",
-    "lastUpdated": "2022-02-14T10:44:00.937Z",
+    "lastUpdated": "2022-05-09T16:06:05.657Z",
     "accepting": [
       {
         "Id": 1,
@@ -1560,6 +1540,26 @@
     ]
   },
   {
+    "dentist": "P.B. Robinson & Associates",
+    "address": "null, 325 Bentley Road",
+    "city": "Doncaster",
+    "postCode": "DN5 9TG",
+    "phone": "01302 782206",
+    "lastUpdated": "2022-05-10T12:53:17Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
     "dentist": "Dawley Family Dental Centre",
     "address": "60a High Street, Dawley",
     "city": "Shropshire",
@@ -1661,6 +1661,26 @@
     "postCode": "S81 9RY",
     "phone": "01909730389",
     "lastUpdated": "2022-04-12T15:27:56Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Cunnington & Associates",
+    "address": "30 Ashbourne Road, Derby",
+    "city": "Derbyshire",
+    "postCode": "DE22 3AD",
+    "phone": "01332 362211",
+    "lastUpdated": "2022-05-11T10:24:32Z",
     "accepting": [
       {
         "Id": 1,
@@ -1820,7 +1840,7 @@
     "city": "Wolverhampton",
     "postCode": "WV8 1PF",
     "phone": "01902 840722",
-    "lastUpdated": "2022-02-16T11:37:12.287Z",
+    "lastUpdated": "2022-05-11T15:23:11.517Z",
     "accepting": [
       {
         "Id": 1,
@@ -2030,6 +2050,26 @@
     ]
   },
   {
+    "dentist": "Sixteen A Dental Care",
+    "address": "16a High Street, Swadlincote",
+    "city": "Derbyshire",
+    "postCode": "DE11 8HY",
+    "phone": "01283 221857",
+    "lastUpdated": "2022-05-11T13:57:15Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
     "dentist": "mydentist, Aldwark, York ",
     "address": "null, 60-62 Aldwark",
     "city": "York",
@@ -2116,6 +2156,26 @@
     "postCode": "WV16 4BB",
     "phone": "01746 766114",
     "lastUpdated": "2022-03-27T15:45:34.707Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Hayer's Dental Practice",
+    "address": "60-61 New Road, Willenhall",
+    "city": "W Midlands",
+    "postCode": "WV13 2DA",
+    "phone": "01902 606834",
+    "lastUpdated": "2022-05-11T15:21:50Z",
     "accepting": [
       {
         "Id": 1,
@@ -2256,26 +2316,6 @@
     "postCode": "WV14 0AQ",
     "phone": "01902 491539",
     "lastUpdated": "2022-04-11T09:22:47Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "mydentist, Bradford Street, Walsall",
-    "address": "null, 1-4 Arcade Balcony",
-    "city": "Walsall",
-    "postCode": "WS1 1PQ",
-    "phone": "01922 624477",
-    "lastUpdated": "2022-04-12T10:39:45Z",
     "accepting": [
       {
         "Id": 1,
@@ -2455,7 +2495,7 @@
     "city": "West Midlands, Above bicycle shop",
     "postCode": "WS10 7HQ",
     "phone": "0121 556 1656",
-    "lastUpdated": "2022-02-16T13:26:03.717Z",
+    "lastUpdated": "2022-05-09T10:24:36.067Z",
     "accepting": [
       {
         "Id": 1,
@@ -2931,41 +2971,6 @@
     "postCode": "DY2 0LN",
     "phone": "01384 253218",
     "lastUpdated": "2022-03-27T15:50:44.497Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "The Minster Dental Centre",
-    "address": "Lower Kirklington Road, ",
-    "city": "Nottinghamshire",
-    "postCode": "NG25 0DN",
-    "phone": "01636 814248",
-    "lastUpdated": "2022-05-05T10:01:00.78Z",
-    "accepting": [
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Church Square Dental Practice",
-    "address": "10 Church Square, null",
-    "city": "Oldbury",
-    "postCode": "B69 4DX",
-    "phone": "0121 5521892",
-    "lastUpdated": "2022-04-12T14:15:12.327Z",
     "accepting": [
       {
         "Id": 1,
