@@ -1,5 +1,105 @@
 [
   {
+    "dentist": "Ridgeway Dental Practice",
+    "address": "null, 80 Ridgeway Road",
+    "city": "SHEFFIELD",
+    "postCode": "S12 2SX",
+    "phone": "0114 265 1581",
+    "lastUpdated": "2022-05-20T12:08:11Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Milne, Spencer & Harris Dental Surgeons LLP",
+    "address": "Kings Medical Centre, King Edward Street",
+    "city": "Wakefield",
+    "postCode": "WF6 2AZ",
+    "phone": "01924 895864",
+    "lastUpdated": "2022-05-16T09:30:38.477Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Milne, Spencer & Harris Dental Surgeons LLP",
+    "address": "105 Station Lane, Featherstone",
+    "city": "Pontefract",
+    "postCode": "WF7 5BA",
+    "phone": "01977 791754",
+    "lastUpdated": "2022-05-16T09:30:27.86Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Cudworth Dental Surgery",
+    "address": "Cudworth Dental Surgery LTD, 260 Barnsley Road",
+    "city": "Barnsley",
+    "postCode": "S72 8SU",
+    "phone": "01226 710380",
+    "lastUpdated": "2022-05-16T08:55:19Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Thurcoft Dental Practice",
+    "address": "24-28 Laughton Road, Thurcroft",
+    "city": "South Yorkshire",
+    "postCode": "S66 9LP",
+    "phone": "01709 703544",
+    "lastUpdated": "2022-05-14T06:47:37.62Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
     "dentist": "Queens Road Dental Care",
     "address": "27 Queens Road, Barnsley",
     "city": "S Yorkshire",
@@ -106,26 +206,6 @@
     "postCode": "DE11 8HY",
     "phone": "01283 221857",
     "lastUpdated": "2022-05-11T13:57:15Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Cunnington & Associates",
-    "address": "30 Ashbourne Road, Derby",
-    "city": "Derbyshire",
-    "postCode": "DE22 3AD",
-    "phone": "01332 362211",
-    "lastUpdated": "2022-05-11T10:24:32Z",
     "accepting": [
       {
         "Id": 1,
@@ -280,12 +360,47 @@
     ]
   },
   {
+    "dentist": "The Minster Dental Centre",
+    "address": "Lower Kirklington Road, ",
+    "city": "Nottinghamshire",
+    "postCode": "NG25 0DN",
+    "phone": "01636 814248",
+    "lastUpdated": "2022-05-05T10:01:00.78Z",
+    "accepting": [
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
     "dentist": "The Bhandal Dental Surgery",
     "address": "61 Walsall Road, Wednesbury",
     "city": "W Midlands",
     "postCode": "WS10 9JS",
     "phone": "0121 526 2252",
     "lastUpdated": "2022-05-04T15:25:09Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Handsworth Dental Surgery",
+    "address": "276 Rookery Road, Handsworth",
+    "city": "Birmingham",
+    "postCode": "B21 9QG",
+    "phone": "0121 554 2424",
+    "lastUpdated": "2022-05-04T15:23:48Z",
     "accepting": [
       {
         "Id": 1,
@@ -1355,6 +1470,26 @@
     ]
   },
   {
+    "dentist": "Church Square Dental Practice",
+    "address": "10 Church Square, null",
+    "city": "Oldbury",
+    "postCode": "B69 4DX",
+    "phone": "0121 5521892",
+    "lastUpdated": "2022-04-12T14:15:12.327Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
     "dentist": "mydentist, Shiregreen Lane, Sheffield",
     "address": "null, 73-75 Shiregreen Lane",
     "city": "Sheffield",
@@ -1595,26 +1730,6 @@
     ]
   },
   {
-    "dentist": "Jem Dental Care",
-    "address": "210-214 Harehills Lane, null",
-    "city": "Leeds",
-    "postCode": "LS8 5DH",
-    "phone": "0113 2492136",
-    "lastUpdated": "2022-04-08T16:55:51.847Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
     "dentist": "Broad Walk Dental Practice",
     "address": "3 Grosvenor Mansions, Broad Walk",
     "city": "Buxton",
@@ -1716,26 +1831,6 @@
     "postCode": "NG18 1NG",
     "phone": "01623 623364",
     "lastUpdated": "2022-04-05T08:09:39Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Cudworth Dental Surgery",
-    "address": "Cudworth Dental Surgery LTD, 260 Barnsley Road",
-    "city": "Barnsley",
-    "postCode": "S72 8SU",
-    "phone": "01226 710380",
-    "lastUpdated": "2022-04-04T15:34:31Z",
     "accepting": [
       {
         "Id": 1,
@@ -1971,6 +2066,26 @@
     "postCode": "DY2 0LN",
     "phone": "01384 253218",
     "lastUpdated": "2022-03-27T15:50:44.497Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Bhandal Dental Practice - Brierley Hill",
+    "address": "Bhandal Dental Practice, 125 High Street",
+    "city": "West Midlands",
+    "postCode": "DY5 3AU",
+    "phone": "01384 77093",
+    "lastUpdated": "2022-03-27T15:50:38.217Z",
     "accepting": [
       {
         "Id": 1,
@@ -2265,12 +2380,12 @@
     ]
   },
   {
-    "dentist": "Stirchley Dental Practice",
-    "address": "Stirchley Health Centre, Stirchley",
-    "city": "Shropshire",
-    "postCode": "TF3 1FB",
-    "phone": "01952 592658",
-    "lastUpdated": "2022-03-27T09:53:28.697Z",
+    "dentist": "Rookery Road Dental Practice",
+    "address": "220 Rookery Road, null",
+    "city": "Birmingham",
+    "postCode": "B21 9QG",
+    "phone": "0121 554 2136",
+    "lastUpdated": "2022-03-27T10:09:14.377Z",
     "accepting": [
       {
         "Id": 1,
@@ -2285,12 +2400,12 @@
     ]
   },
   {
-    "dentist": "The Smileworks Ltd",
-    "address": "Smileworks Wellington, Carlton Chambers",
-    "city": "Wellington, Telford",
-    "postCode": "TF1 1EW",
-    "phone": "01952 242966",
-    "lastUpdated": "2022-03-24T14:06:47Z",
+    "dentist": "Stirchley Dental Practice",
+    "address": "Stirchley Health Centre, Stirchley",
+    "city": "Shropshire",
+    "postCode": "TF3 1FB",
+    "phone": "01952 592658",
+    "lastUpdated": "2022-03-27T09:53:28.697Z",
     "accepting": [
       {
         "Id": 1,
@@ -2851,126 +2966,6 @@
     "postCode": "S66 8LH",
     "phone": "01709 812370",
     "lastUpdated": "2022-02-28T13:10:51Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Milne, Spencer & Harris Dental Surgeons LLP",
-    "address": "Kings Medical Centre, King Edward Street",
-    "city": "Wakefield",
-    "postCode": "WF6 2AZ",
-    "phone": "01924 895864",
-    "lastUpdated": "2022-02-22T08:19:21.18Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Milne, Spencer & Harris Dental Surgeons LLP",
-    "address": "105 Station Lane, Featherstone",
-    "city": "Pontefract",
-    "postCode": "WF7 5BA",
-    "phone": "01977 791754",
-    "lastUpdated": "2022-02-22T08:19:02.9Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Thurcoft Dental Practice",
-    "address": "24-28 Laughton Road, Thurcroft",
-    "city": "South Yorkshire",
-    "postCode": "S66 9LP",
-    "phone": "01709 703544",
-    "lastUpdated": "2022-02-21T06:38:07.157Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Bulwell Dental Practice",
-    "address": "1 St Albans Road, Nottingham",
-    "city": "Notts",
-    "postCode": "NG6 9JQ",
-    "phone": "0115 9171444",
-    "lastUpdated": "2022-02-17T15:03:11Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Crescent Orthodontics & Dental Practice",
-    "address": "Crescent Orthodontics & Dental Practice, 107 Drake Street",
-    "city": "Rochdale",
-    "postCode": "OL16 1PZ",
-    "phone": "01706 645125",
-    "lastUpdated": "2022-02-14T12:37:33Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Great Wyrley Dental Practice",
-    "address": "2 Southfield Way, Great Wyrley",
-    "city": "Walsall",
-    "postCode": "WS6 6JZ",
-    "phone": "01922 413703",
-    "lastUpdated": "2022-02-13T20:13:08.42Z",
     "accepting": [
       {
         "Id": 1,
