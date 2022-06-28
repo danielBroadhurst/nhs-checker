@@ -1,5 +1,840 @@
 [
   {
+    "dentist": "Street Lane Dental Centre",
+    "address": "457 Street Lane, Leeds",
+    "city": "W Yorkshire",
+    "postCode": "LS17 6HQ",
+    "phone": "0113 2689696",
+    "lastUpdated": "2022-06-23T10:40:40Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Yorkshire Smiles Limited",
+    "address": "Victoria House, Victoria Road",
+    "city": "Barnsley",
+    "postCode": "S70 2BB",
+    "phone": "01226 282579",
+    "lastUpdated": "2022-06-23T09:28:18Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Cunnington & Associates",
+    "address": "30 Ashbourne Road, Derby",
+    "city": "Derbyshire",
+    "postCode": "DE22 3AD",
+    "phone": "01332 362211",
+    "lastUpdated": "2022-06-22T09:43:59Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Cannock Road Dental Practice",
+    "address": "108-110 Cannock Road, Wednesfield",
+    "city": "Wolverhampton",
+    "postCode": "WV10 8PW",
+    "phone": "01902 722222",
+    "lastUpdated": "2022-06-21T08:44:15.197Z",
+    "accepting": [
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "St Helens Dental Practice",
+    "address": "Machins Business Centre, 29 Wood Street",
+    "city": "Leics",
+    "postCode": "LE65 1EL",
+    "phone": "01530 415005",
+    "lastUpdated": "2022-06-20T14:14:08.49Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Bhandal Dental Practice - Quarry Bank",
+    "address": "Bhandal Dental Practice, 179 - 180 High Street",
+    "city": "Brierley Hill",
+    "postCode": "DY5 2AB",
+    "phone": "01384 635777",
+    "lastUpdated": "2022-06-20T11:24:13.18Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Westwood and Cockram",
+    "address": "Kingswinford Health Centre, Standhills Road",
+    "city": "Kingswinford",
+    "postCode": "DY6 8DN",
+    "phone": "01384 277333",
+    "lastUpdated": "2022-06-20T11:24:06.897Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Bhandal Dental Practice - Mucklow & Homer Brierley Hill",
+    "address": "Bhandal Dental Practice, 20 Dudley Road",
+    "city": "Brierley Hill",
+    "postCode": "DY5 1LH",
+    "phone": "01384 77538",
+    "lastUpdated": "2022-06-20T11:24:00.13Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Bhandal Dental Practice - Brierley Hill",
+    "address": "Bhandal Dental Practice, 125 High Street",
+    "city": "West Midlands",
+    "postCode": "DY5 3AU",
+    "phone": "01384 77093",
+    "lastUpdated": "2022-06-20T11:23:21.02Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Bhandal Dental Practice - Talbot House",
+    "address": "Bhandal Dental Practice, Talbot House",
+    "city": "Brierley Hill",
+    "postCode": "DY5 3DL",
+    "phone": "01384 78211",
+    "lastUpdated": "2022-06-20T11:21:06.22Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "The Gables",
+    "address": "The Gables, 9 St. James's Road",
+    "city": "Dudley",
+    "postCode": "DY1 1JG",
+    "phone": "01384 255570",
+    "lastUpdated": "2022-06-20T11:20:58.14Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Bhandal Dental Practice - Netherton",
+    "address": "Bhandal Dental Practice, 1 Marriot Road",
+    "city": "Dudley",
+    "postCode": "DY2 0LN",
+    "phone": "01384 253218",
+    "lastUpdated": "2022-06-20T11:20:50.94Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "The Briars",
+    "address": "2 Trinity Road, null",
+    "city": "Dudley",
+    "postCode": "DY1 1JB",
+    "phone": "01384 252057",
+    "lastUpdated": "2022-06-20T11:20:41.607Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Bhandal Dental Practice - Dudley",
+    "address": "Bhandal Dental Practice, 190 High Street",
+    "city": "Dudley",
+    "postCode": "DY1 1QE",
+    "phone": "01384 245960",
+    "lastUpdated": "2022-06-20T11:20:35.12Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Bhandal Dental Practice - Lower Gornal",
+    "address": "Bhandal Dental Practice, 45 Zoar Street",
+    "city": "Dudley",
+    "postCode": "DY3 2PA",
+    "phone": "01384 232756",
+    "lastUpdated": "2022-06-20T11:20:27.197Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Kemberton",
+    "address": "Kemberton, 89 Summer Lane",
+    "city": "Dudley",
+    "postCode": "DY3 2HA",
+    "phone": "01384 352235",
+    "lastUpdated": "2022-06-20T11:20:20.067Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Castle View",
+    "address": "269 Castle Street, Dudley",
+    "city": "west midlands",
+    "postCode": "DY1 1LQ",
+    "phone": "01384 253680",
+    "lastUpdated": "2022-06-20T11:20:13.317Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Bhandal Dental Practice - Upper Gornal",
+    "address": "Bhandal Dental Practice, 11 The Arcade",
+    "city": "Dudley",
+    "postCode": "DY3 2DA",
+    "phone": "01902 679248",
+    "lastUpdated": "2022-06-20T11:20:06.797Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Bhandal Dental Practice - Sydney Road",
+    "address": "Bhandal Dental Practice, 19 Sydney Road",
+    "city": "Cradley Heath",
+    "postCode": "B64 5BA",
+    "phone": "01384 569407",
+    "lastUpdated": "2022-06-20T11:18:14.953Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Unity Walk",
+    "address": "2 Unity Walk, Tipton",
+    "city": "west midlands",
+    "postCode": "DY4 8QL",
+    "phone": "0121 520 1881",
+    "lastUpdated": "2022-06-20T11:18:01.313Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Bhandal Dental Practice - New Road",
+    "address": "Bhandal Dental Practice, 71 New Road",
+    "city": "Willenhall",
+    "postCode": "WV13 2DA",
+    "phone": "01902 606564",
+    "lastUpdated": "2022-06-20T11:17:48.12Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Bhandal Dental Practice - Penn",
+    "address": "Bhandal Dental Practice, 57 Coalway Road",
+    "city": "Wolverhampton",
+    "postCode": "WV3 7LY",
+    "phone": "01902 335275",
+    "lastUpdated": "2022-06-20T11:17:35.3Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Bhandal Dental Practice - Darlaston",
+    "address": "Bhandal Dental Practice, 1 - 3 Walsall Road",
+    "city": "Darlaston",
+    "postCode": "WS10 9JL",
+    "phone": "0121 526 2862",
+    "lastUpdated": "2022-06-20T11:17:28.51Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Bhandal Dental Practice - Oldhill",
+    "address": "83 Halesowen Road, Oldhill",
+    "city": "West Midlands",
+    "postCode": "B64 5LT",
+    "phone": "01384 566605",
+    "lastUpdated": "2022-06-20T11:17:08.333Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Bhandal Dental Practice - Woodcross",
+    "address": "Bhandal Dental Practice, Woodcross Lane",
+    "city": "Wolverhampton",
+    "postCode": "WV14 9BX",
+    "phone": "01902 885003",
+    "lastUpdated": "2022-06-20T11:17:00.703Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Bhandal Dental Practice - Perton",
+    "address": "Bhandal Dental Practice, Severn Drive",
+    "city": "Wolvehampton",
+    "postCode": "WV6 7QL",
+    "phone": "01902 756114",
+    "lastUpdated": "2022-06-20T11:16:30.42Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Stirchley Dental Practice",
+    "address": "Stirchley Health Centre, Stirchley",
+    "city": "Shropshire",
+    "postCode": "TF3 1FB",
+    "phone": "01952 592658",
+    "lastUpdated": "2022-06-20T09:23:58.743Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Regency House Dental Practice",
+    "address": "Regency House, 39 Underhill Street",
+    "city": "Bridgnorth",
+    "postCode": "WV16 4BB",
+    "phone": "01746 766114",
+    "lastUpdated": "2022-06-20T09:21:11.717Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "765 Dental Care",
+    "address": "null, 765 Abbeydale Road",
+    "city": "Sheffield",
+    "postCode": "S7 2BG",
+    "phone": "01142588549",
+    "lastUpdated": "2022-06-19T11:10:14.953Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Acorn Dental Clinic",
+    "address": "null, Unit 4, Acorn Business Park",
+    "city": "Skipton",
+    "postCode": "BD23 2UE",
+    "phone": "01756709769",
+    "lastUpdated": "2022-06-17T10:34:18Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Rookery Road Dental Practice",
+    "address": "220 Rookery Road, null",
+    "city": "Birmingham",
+    "postCode": "B21 9QG",
+    "phone": "0121 554 2136",
+    "lastUpdated": "2022-06-17T09:38:42.88Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "PERFECT SMILE CLINIC",
+    "address": "252-254 Easterly Road, Oakwood",
+    "city": "Leeds",
+    "postCode": "LS8 3ES",
+    "phone": "0113 2486777",
+    "lastUpdated": "2022-06-16T16:21:00Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Abbey Dental Care",
+    "address": "51 Gowthorpe, Selby",
+    "city": "North Yorkshire",
+    "postCode": "YO8 4HE",
+    "phone": "01757 705607",
+    "lastUpdated": "2022-06-15T15:45:42Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Cudworth Dental Surgery",
+    "address": "Cudworth Dental Surgery LTD, 260 Barnsley Road",
+    "city": "Barnsley",
+    "postCode": "S72 8SU",
+    "phone": "01226 710380",
+    "lastUpdated": "2022-06-14T11:24:15Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Dental Care",
+    "address": "5 Park Street, Neston",
+    "city": "Cheshire",
+    "postCode": "CH64 3RP",
+    "phone": "0151 336 5555",
+    "lastUpdated": "2022-06-14T10:50:30.07Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "The Pear Tree Dental Centre",
+    "address": "22 Nottingham Road, null",
+    "city": "Burton Joyce",
+    "postCode": "NG14 5AE",
+    "phone": "0115 9312935",
+    "lastUpdated": "2022-06-13T12:29:37Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Richmond House Dental Practice",
+    "address": "Richmond House Dental Practice, 135 High Street",
+    "city": "Amblecote, Stourbridge",
+    "postCode": "DY8 4BU",
+    "phone": "01384 390111",
+    "lastUpdated": "2022-06-12T17:43:44Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Westbourne Dental Practice",
+    "address": "118 Storeton Road, Birkenhead",
+    "city": "Merseyside",
+    "postCode": "CH42 8NA",
+    "phone": "0151 608 9191",
+    "lastUpdated": "2022-06-09T09:40:01.36Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Baharvand Hosseini & Ziai",
+    "address": "137a Tamworth Road, Long Eaton",
+    "city": "Notts",
+    "postCode": "NG10 1BY",
+    "phone": "0115 972 5777",
+    "lastUpdated": "2022-06-09T09:18:58Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Albert Dental Practice",
+    "address": "null, 2 - 3 Albert Place",
+    "city": "Telford",
+    "postCode": "TF2 8AF",
+    "phone": "01952 605536",
+    "lastUpdated": "2022-06-07T10:28:16Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Gibbons, P R ",
+    "address": "2 Hayes Croft, Barnsley",
+    "city": "S Yorkshire",
+    "postCode": "S70 1RY",
+    "phone": "01226 282954",
+    "lastUpdated": "2022-06-06T11:25:18.947Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Dawley Family Dental Centre",
+    "address": "60a High Street, Dawley",
+    "city": "Shropshire",
+    "postCode": "TF4 2EX",
+    "phone": "01952 505353",
+    "lastUpdated": "2022-06-06T09:35:00Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
     "dentist": "Thompson & Thomas",
     "address": "Thompson & Thomas, 76 Langsett Road",
     "city": "SHEFFIELD",
@@ -60,6 +895,26 @@
     ]
   },
   {
+    "dentist": "Soho Road Dental Practice",
+    "address": "78 Soho Road, Handsworth",
+    "city": "Birmingham",
+    "postCode": "B21 9BN",
+    "phone": "0121 523 8231",
+    "lastUpdated": "2022-05-31T12:27:22Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
     "dentist": "Genesis Dentalcare",
     "address": "Lynton House - 317 Doncaster Road, Stairfoot",
     "city": "South Yorkshire",
@@ -86,6 +941,26 @@
     "postCode": "S12 2SD",
     "phone": "0114 239 1906",
     "lastUpdated": "2022-05-30T07:43:03.157Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
+    "dentist": "Grove Lane Dental Surgery",
+    "address": "105 Grove Lane, Handsworth",
+    "city": "W Midlands",
+    "postCode": "B21 9HF",
+    "phone": "0121 554 0412",
+    "lastUpdated": "2022-05-29T19:19:03.023Z",
     "accepting": [
       {
         "Id": 1,
@@ -186,46 +1061,6 @@
     "postCode": "B79 7JS",
     "phone": "01827 62152",
     "lastUpdated": "2022-05-27T06:59:59.73Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Balls Road Dental Practice",
-    "address": "29 Balls Road, Prenton",
-    "city": "Wirral",
-    "postCode": "CH43 5RF",
-    "phone": "0151 652 1395",
-    "lastUpdated": "2022-05-26T11:18:55Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Mr. S. G. Emms",
-    "address": "Skellow Dental Practice, 205 Skellow Road",
-    "city": "Doncaster",
-    "postCode": "DN6 8HP",
-    "phone": "01302 726524",
-    "lastUpdated": "2022-05-24T14:59:17Z",
     "accepting": [
       {
         "Id": 1,
@@ -360,12 +1195,12 @@
     ]
   },
   {
-    "dentist": "Cudworth Dental Surgery",
-    "address": "Cudworth Dental Surgery LTD, 260 Barnsley Road",
-    "city": "Barnsley",
-    "postCode": "S72 8SU",
-    "phone": "01226 710380",
-    "lastUpdated": "2022-05-16T08:55:19Z",
+    "dentist": "Bhandal Dental Practice - Cradley Heath",
+    "address": "Bhandal Dental Practice, 148 High Street",
+    "city": "Cradley Heath",
+    "postCode": "B64 5HJ",
+    "phone": "01384 411522",
+    "lastUpdated": "2022-05-16T08:40:05.393Z",
     "accepting": [
       {
         "Id": 1,
@@ -560,6 +1395,26 @@
     ]
   },
   {
+    "dentist": "Smethwick Dental Practice",
+    "address": "null, 88 High Street",
+    "city": "West Midlands",
+    "postCode": "B66 1AQ",
+    "phone": "0121 558 4003",
+    "lastUpdated": "2022-05-09T14:47:38Z",
+    "accepting": [
+      {
+        "Id": 1,
+        "Name": "Adults (18 and over)",
+        "AcceptingPatients": true
+      },
+      {
+        "Id": 2,
+        "Name": "Adults entitled to free dental care",
+        "AcceptingPatients": true
+      }
+    ]
+  },
+  {
     "dentist": "Wednesbury Dental Practice",
     "address": "Wednesbury Dental Practice, 11-15a Upper High Street",
     "city": "West Midlands, Above bicycle shop",
@@ -620,12 +1475,12 @@
     ]
   },
   {
-    "dentist": "PERFECT SMILE CLINIC",
-    "address": "252-254 Easterly Road, Oakwood",
-    "city": "Leeds",
-    "postCode": "LS8 3ES",
-    "phone": "0113 2486777",
-    "lastUpdated": "2022-05-06T11:58:14Z",
+    "dentist": "S.Mosedale Stockland Green Dental Clinic",
+    "address": "null, 192 Reservoir Road",
+    "city": "Birmingham",
+    "postCode": "B23 6DJ",
+    "phone": "0121 803 5588",
+    "lastUpdated": "2022-05-06T10:04:51.23Z",
     "accepting": [
       {
         "Id": 1,
@@ -1310,52 +2165,12 @@
     ]
   },
   {
-    "dentist": "Park Road North Dental Practice",
-    "address": "Dental Surgery, 406 Park Road North",
-    "city": "Birkenhead",
-    "postCode": "CH41 0DA",
-    "phone": "0151 652 3032",
-    "lastUpdated": "2022-04-21T09:34:22.61Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
     "dentist": "Bupa Dental Care, Barnton",
     "address": "137 Runcorn Road, Barnton",
     "city": "Northwich",
     "postCode": "CW8 4HD",
     "phone": "01606 74234",
     "lastUpdated": "2022-04-21T07:54:31Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Abbey Dental Care",
-    "address": "51 Gowthorpe, Selby",
-    "city": "North Yorkshire",
-    "postCode": "YO8 4HE",
-    "phone": "01757 705607",
-    "lastUpdated": "2022-04-20T09:24:34.657Z",
     "accepting": [
       {
         "Id": 1,
@@ -1616,26 +2431,6 @@
     "postCode": "S65 1AP",
     "phone": "01709 362496",
     "lastUpdated": "2022-04-14T14:38:30Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Yorkshire Smiles Limited",
-    "address": "Victoria House, Victoria Road",
-    "city": "Barnsley",
-    "postCode": "S70 2BB",
-    "phone": "01226 282579",
-    "lastUpdated": "2022-04-13T14:49:23Z",
     "accepting": [
       {
         "Id": 1,
@@ -2065,26 +2860,6 @@
     ]
   },
   {
-    "dentist": "Devonshire Park Dental Centre ",
-    "address": "Devonshire Park Dental Centre, 62 Greenway Road",
-    "city": "Birkenhead",
-    "postCode": "CH42 7LX",
-    "phone": "0151 643 8433",
-    "lastUpdated": "2022-04-05T12:28:39.937Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
     "dentist": "DENTECARE (BARNSLEY) Ltd",
     "address": "null, 18 Pitt Street",
     "city": "Barnsley",
@@ -2185,787 +2960,12 @@
     ]
   },
   {
-    "dentist": "Cannock Road Dental Practice",
-    "address": "108-110 Cannock Road, Wednesfield",
-    "city": "Wolverhampton",
-    "postCode": "WV10 8PW",
-    "phone": "01902 722222",
-    "lastUpdated": "2022-03-31T17:48:35Z",
-    "accepting": [
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
     "dentist": "Pennwood Dental Practice",
     "address": "428 Penn Road, Penn",
     "city": "West Midlands",
     "postCode": "WV4 4DQ",
     "phone": "01902 338278",
     "lastUpdated": "2022-03-29T07:30:44.39Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "765 Dental Care",
-    "address": "null, 765 Abbeydale Road",
-    "city": "Sheffield",
-    "postCode": "S7 2BG",
-    "phone": "01142588549",
-    "lastUpdated": "2022-03-28T15:11:56Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "St Helens Dental Practice",
-    "address": "Machins Business Centre, 29 Wood Street",
-    "city": "Leics",
-    "postCode": "LE65 1EL",
-    "phone": "01530 415005",
-    "lastUpdated": "2022-03-28T14:54:55.32Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Bhandal Dental Practice - Oldhill",
-    "address": "83 Halesowen Road, Oldhill",
-    "city": "West Midlands",
-    "postCode": "B64 5LT",
-    "phone": "01384 566605",
-    "lastUpdated": "2022-03-27T15:54:10.293Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Westwood and Cockram",
-    "address": "Kingswinford Health Centre, Standhills Road",
-    "city": "Kingswinford",
-    "postCode": "DY6 8DN",
-    "phone": "01384 277333",
-    "lastUpdated": "2022-03-27T15:52:35.947Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Bhandal Dental Practice - Mucklow & Homer Brierley Hill",
-    "address": "Bhandal Dental Practice, 20 Dudley Road",
-    "city": "Brierley Hill",
-    "postCode": "DY5 1LH",
-    "phone": "01384 77538",
-    "lastUpdated": "2022-03-27T15:51:38Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Bhandal Dental Practice - Talbot House",
-    "address": "Bhandal Dental Practice, Talbot House",
-    "city": "Brierley Hill",
-    "postCode": "DY5 3DL",
-    "phone": "01384 78211",
-    "lastUpdated": "2022-03-27T15:51:05.587Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Bhandal Dental Practice - Netherton",
-    "address": "Bhandal Dental Practice, 1 Marriot Road",
-    "city": "Dudley",
-    "postCode": "DY2 0LN",
-    "phone": "01384 253218",
-    "lastUpdated": "2022-03-27T15:50:44.497Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Bhandal Dental Practice - Brierley Hill",
-    "address": "Bhandal Dental Practice, 125 High Street",
-    "city": "West Midlands",
-    "postCode": "DY5 3AU",
-    "phone": "01384 77093",
-    "lastUpdated": "2022-03-27T15:50:38.217Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "The Gables",
-    "address": "The Gables, 9 St. James's Road",
-    "city": "Dudley",
-    "postCode": "DY1 1JG",
-    "phone": "01384 255570",
-    "lastUpdated": "2022-03-27T15:50:25.763Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "The Briars",
-    "address": "2 Trinity Road, null",
-    "city": "Dudley",
-    "postCode": "DY1 1JB",
-    "phone": "01384 252057",
-    "lastUpdated": "2022-03-27T15:50:12.893Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Bhandal Dental Practice - Dudley",
-    "address": "Bhandal Dental Practice, 190 High Street",
-    "city": "Dudley",
-    "postCode": "DY1 1QE",
-    "phone": "01384 245960",
-    "lastUpdated": "2022-03-27T15:50:02.117Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Kemberton",
-    "address": "Kemberton, 89 Summer Lane",
-    "city": "Dudley",
-    "postCode": "DY3 2HA",
-    "phone": "01384 352235",
-    "lastUpdated": "2022-03-27T15:49:31.837Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Bhandal Dental Practice - Upper Gornal",
-    "address": "Bhandal Dental Practice, 11 The Arcade",
-    "city": "Dudley",
-    "postCode": "DY3 2DA",
-    "phone": "01902 679248",
-    "lastUpdated": "2022-03-27T15:49:23.153Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Castle View",
-    "address": "269 Castle Street, Dudley",
-    "city": "west midlands",
-    "postCode": "DY1 1LQ",
-    "phone": "01384 253680",
-    "lastUpdated": "2022-03-27T15:49:12.88Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Bhandal Dental Practice - Lower Gornal",
-    "address": "Bhandal Dental Practice, 45 Zoar Street",
-    "city": "Dudley",
-    "postCode": "DY3 2PA",
-    "phone": "01384 232756",
-    "lastUpdated": "2022-03-27T15:49:06.58Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Unity Walk",
-    "address": "2 Unity Walk, Tipton",
-    "city": "west midlands",
-    "postCode": "DY4 8QL",
-    "phone": "0121 520 1881",
-    "lastUpdated": "2022-03-27T15:47:57.58Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Bhandal Dental Practice - Perton",
-    "address": "Bhandal Dental Practice, Severn Drive",
-    "city": "Wolvehampton",
-    "postCode": "WV6 7QL",
-    "phone": "01902 756114",
-    "lastUpdated": "2022-03-27T15:47:02.857Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Bhandal Dental Practice - New Road",
-    "address": "Bhandal Dental Practice, 71 New Road",
-    "city": "Willenhall",
-    "postCode": "WV13 2DA",
-    "phone": "01902 606564",
-    "lastUpdated": "2022-03-27T15:46:55.757Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Bhandal Dental Practice - Darlaston",
-    "address": "Bhandal Dental Practice, 1 - 3 Walsall Road",
-    "city": "Darlaston",
-    "postCode": "WS10 9JL",
-    "phone": "0121 526 2862",
-    "lastUpdated": "2022-03-27T15:46:47.143Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Bhandal Dental Practice - Woodcross",
-    "address": "Bhandal Dental Practice, Woodcross Lane",
-    "city": "Wolverhampton",
-    "postCode": "WV14 9BX",
-    "phone": "01902 885003",
-    "lastUpdated": "2022-03-27T15:46:32.583Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Bhandal Dental Practice - Penn",
-    "address": "Bhandal Dental Practice, 57 Coalway Road",
-    "city": "Wolverhampton",
-    "postCode": "WV3 7LY",
-    "phone": "01902 335275",
-    "lastUpdated": "2022-03-27T15:46:25.467Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Regency House Dental Practice",
-    "address": "Regency House, 39 Underhill Street",
-    "city": "Bridgnorth",
-    "postCode": "WV16 4BB",
-    "phone": "01746 766114",
-    "lastUpdated": "2022-03-27T15:45:34.707Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Rookery Road Dental Practice",
-    "address": "220 Rookery Road, null",
-    "city": "Birmingham",
-    "postCode": "B21 9QG",
-    "phone": "0121 554 2136",
-    "lastUpdated": "2022-03-27T10:09:14.377Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Stirchley Dental Practice",
-    "address": "Stirchley Health Centre, Stirchley",
-    "city": "Shropshire",
-    "postCode": "TF3 1FB",
-    "phone": "01952 592658",
-    "lastUpdated": "2022-03-27T09:53:28.697Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Collins & Ball Dental Practice",
-    "address": "null, 60 Ecclesall Road South",
-    "city": "SHEFFIELD",
-    "postCode": "S11 9PF",
-    "phone": "0114 266 2212",
-    "lastUpdated": "2022-03-23T05:37:52.593Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Dental Care",
-    "address": "5 Park Street, Neston",
-    "city": "Cheshire",
-    "postCode": "CH64 3RP",
-    "phone": "0151 336 5555",
-    "lastUpdated": "2022-03-22T10:11:40.913Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Armstrong and Haire Ltd",
-    "address": "38 Bank Street, Castleford",
-    "city": "W Yorkshire",
-    "postCode": "WF10 1JD",
-    "phone": "01977 552670",
-    "lastUpdated": "2022-03-22T06:49:20Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Jones & Associates",
-    "address": "Mannington, Southgate",
-    "city": "Pontefract",
-    "postCode": "WF8 1QT",
-    "phone": "01977 702051",
-    "lastUpdated": "2022-03-20T13:00:49.463Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Gibbons, P R ",
-    "address": "2 Hayes Croft, Barnsley",
-    "city": "S Yorkshire",
-    "postCode": "S70 1RY",
-    "phone": "01226 282954",
-    "lastUpdated": "2022-03-16T10:05:00.573Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Broxtowe Lane Dental Clinic",
-    "address": "Broxtowe Dental Clinic, 398 Broxtowe Lane",
-    "city": "Notts",
-    "postCode": "NG8 5ND",
-    "phone": "0115 9292264",
-    "lastUpdated": "2022-03-14T12:14:03.217Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Westbourne Dental Practice",
-    "address": "118 Storeton Road, Birkenhead",
-    "city": "Merseyside",
-    "postCode": "CH42 8NA",
-    "phone": "0151 608 9191",
-    "lastUpdated": "2022-03-14T09:35:43.08Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Walsall Family Dental Practice",
-    "address": "150-152 Caldmore Road, Walsall",
-    "city": "W Midlands",
-    "postCode": "WS1 3RF",
-    "phone": "01922 623144",
-    "lastUpdated": "2022-03-12T09:35:25.223Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Short Heath Dental Practice",
-    "address": "2a Oaken Drive, Willenhall",
-    "city": "W Midlands",
-    "postCode": "WV12 5NU",
-    "phone": "01922 478893",
-    "lastUpdated": "2022-03-12T09:35:17.293Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Baharvand Hosseini & Ziai",
-    "address": "137a Tamworth Road, Long Eaton",
-    "city": "Notts",
-    "postCode": "NG10 1BY",
-    "phone": "0115 972 5777",
-    "lastUpdated": "2022-03-09T13:04:33.38Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Harden Dental Surgery",
-    "address": "168 Walker Road, Walsall",
-    "city": "W Midlands",
-    "postCode": "WS3 1BZ",
-    "phone": "01922 493896",
-    "lastUpdated": "2022-03-09T08:05:38.107Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "The Doncaster Dental Centre",
-    "address": "82-86 St. Sepulchre Gate, Doncaster",
-    "city": "S Yorkshire",
-    "postCode": "DN1 1SD",
-    "phone": "01302 342356",
-    "lastUpdated": "2022-03-08T12:20:00Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Bilston Dental Care",
-    "address": "7 Wellington Road, Bilston",
-    "city": "Wolverhampton",
-    "postCode": "WV14 6AA",
-    "phone": "01902 491009",
-    "lastUpdated": "2022-03-07T17:12:57.52Z",
-    "accepting": [
-      {
-        "Id": 1,
-        "Name": "Adults (18 and over)",
-        "AcceptingPatients": true
-      },
-      {
-        "Id": 2,
-        "Name": "Adults entitled to free dental care",
-        "AcceptingPatients": true
-      }
-    ]
-  },
-  {
-    "dentist": "Dawley Family Dental Centre",
-    "address": "60a High Street, Dawley",
-    "city": "Shropshire",
-    "postCode": "TF4 2EX",
-    "phone": "01952 505353",
-    "lastUpdated": "2022-03-07T13:02:02Z",
     "accepting": [
       {
         "Id": 1,
